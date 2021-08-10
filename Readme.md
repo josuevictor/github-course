@@ -16,7 +16,7 @@
     Área onde será criada a versão.
     Após o commit volta para unmodified
 
-<img src="https://drive.google.com/file/d/16QrMQNxgEUiiBZZgLOtRdpiPudgceE4y/view?usp=sharing">
+<img src="https://drive.google.com/file/d/16QrMQNxgEUiiBZZgLOtRdpiPudgceE4y/view">
 
 
 # Visualizando logs
