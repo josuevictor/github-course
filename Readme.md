@@ -16,6 +16,8 @@
     Área onde será criada a versão.
     Após o commit volta para unmodified
 
+<img src="/Development/courses/git-course/pic/lifecycle.png"  title="lifecycle" width="150" height="100" />
+
 
 # Visualizando logs
 
