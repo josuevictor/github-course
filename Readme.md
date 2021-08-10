@@ -15,8 +15,10 @@
 ## staged
     Área onde será criada a versão.
     Após o commit volta para unmodified
+ 
+<img src="https://drive.google.com/drive/u/1/folders/1_9T7xDPIRefOKUMu6jyhsA_1KKDDXkSz"/>
 
-<img src="https://drive.google.com/file/d/16QrMQNxgEUiiBZZgLOtRdpiPudgceE4y/view">
+<img src="https://media.discordapp.net/attachments/831974152667398214/836828905859186708/unknown.png?width=1440&height=141">
 
 
 # Visualizando logs
