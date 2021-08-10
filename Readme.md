@@ -16,7 +16,7 @@
     Área onde será criada a versão.
     Após o commit volta para unmodified
 
-<img src="Development/courses/git-course/pic/lifeCycle.png"  title="lifecycle" width="150" height="100" />
+<img src="~/Development/courses/git-course/pic/lifeCycle.png"  title="lifecycle" width="150" height="100" />
 
 <img src="https://media.discordapp.net/attachments/831974152667398214/836828905859186708/unknown.png?width=1440&height=141">
 
