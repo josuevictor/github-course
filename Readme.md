@@ -1,5 +1,4 @@
-# Git e Github
-## aprendendo git e github
+## Aprendendo git e github
 
 
 # File status Lifecycle
