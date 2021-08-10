@@ -42,4 +42,4 @@
     git diff --name-only (lista de arquivos modificados)
 
 
-
+# Dersafzendo alterações 
