@@ -16,9 +16,8 @@
     Área onde será criada a versão.
     Após o commit volta para unmodified
  
-<img src="https://drive.google.com/drive/u/1/folders/1_9T7xDPIRefOKUMu6jyhsA_1KKDDXkSz"/>
 
-<img src="https://media.discordapp.net/attachments/831974152667398214/836828905859186708/unknown.png?width=1440&height=141">
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ft.ctcdn.com.br%2F8FplhVkDQdAatiUcehCimgkGJlI%3D%2F512x288%2Fsmart%2Fi257652.jpeg&imgrefurl=https%3A%2F%2Fcanaltech.com.br%2Fsoftware%2FComo-salvar-imagens-mais-leves-no-Photoshop%2F&tbnid=HHsYopXn4AdwOM&vet=12ahUKEwj_xKaexqfyAhVcuJUCHW0DBQ4QMygBegUIARDKAQ..i&docid=VHtg5hOBR0FhXM&w=512&h=288&q=imagens&client=ubuntu&ved=2ahUKEwj_xKaexqfyAhVcuJUCHW0DBQ4QMygBegUIARDKAQ">
 
 
 # Visualizando logs
